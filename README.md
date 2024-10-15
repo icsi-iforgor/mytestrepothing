@@ -1,6 +1,6 @@
-This repo is for testing stuff for a class
-really shouldn't be for anything else
+This repo is for testing stuff for a class.
 
+really shouldn't be for anything else
 
 
 
